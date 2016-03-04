@@ -1,0 +1,23 @@
+body {
+  height: 600px;
+  width: 400px;
+  padding: 10px;
+  background-color: #CBD2D9;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+h2 {
+  color: #6682A0;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-bottom: -10px;
+}
+
+a {
+  color: #484B4D;
+  text-decoration: none;
+}
+
+.list-group {
+  border-bottom: 1px dotted #484B4D;
+}
